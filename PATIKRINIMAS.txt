@@ -1,0 +1,1 @@
+Atnaujinta: pašalintas el. pašto laukelis. Registracijoje lieka tik vardas. Patikrinta: JavaScript sintaksė su node --check.

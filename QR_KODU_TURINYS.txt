@@ -1,0 +1,14 @@
+QR kodų turinys kiekvienai žaidimo stotelei:
+
+1 stotelė: SEM-1
+2 stotelė: SEM-2
+3 stotelė: SEM-3
+4 stotelė: SEM-4
+5 stotelė: SEM-5
+6 stotelė: SEM-6
+7 stotelė: SEM-7
+8 stotelė: SEM-8
+
+QR kodus gali generuoti tiesiog su šiais tekstais.
+Jei nori QR kodų kaip nuorodų, atsiųsk įkelto puslapio adresą ir sugeneruosiu formatą, pvz.:
+https://tavo-domenas.lt/?qr=SEM-1
